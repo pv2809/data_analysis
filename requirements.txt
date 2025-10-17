@@ -3,5 +3,6 @@ pandas
 plotly
 speechrecognition
 gtts
+TectBlob
 
 
